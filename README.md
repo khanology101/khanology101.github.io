@@ -1,0 +1,4 @@
+npm install
+$env:NODE_OPTIONS = '--openssl-legacy-provider'
+npm run serve
+npm run build
